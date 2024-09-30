@@ -1,0 +1,15 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "Command line employee tracker",
+    "main": "index.js",
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "inquirer": "^8.2.4",
+      "pg": "^8.7.1"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+  
